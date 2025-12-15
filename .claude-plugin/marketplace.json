@@ -40,6 +40,15 @@
         "./skills/web-artifacts-builder",
         "./skills/webapp-testing"
       ]
+    },
+    {
+      "name": "mcp-skills-zh",
+      "description": "MCP 服务器开发指南",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/mcp-builder-zh"
+      ]
     }
   ]
 }
