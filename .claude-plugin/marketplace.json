@@ -1,11 +1,11 @@
 {
-  "name": "anthropic-agent-skills",
+  "name": "moyueheng-skills",
   "owner": {
-    "name": "Keith Lazuka",
-    "email": "klazuka@anthropic.com"
+    "name": "moyueheng",
+    "email": "moyueheng@gmail.com"
   },
   "metadata": {
-    "description": "Anthropic example skills",
+    "description": "moyueheng's skills for claude",
     "version": "1.0.0"
   },
   "plugins": [
@@ -48,6 +48,15 @@
       "strict": false,
       "skills": [
         "./skills/mcp-builder-zh"
+      ]
+    },
+    {
+      "name": "python-developer",
+      "description": "Python 开发者技能",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/uv-package-manager-zh"
       ]
     }
   ]
