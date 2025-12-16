@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "mcp-skills-zh",
+      "name": "mcp-builder",
       "description": "MCP 服务器开发指南",
       "source": "./",
       "strict": false,
